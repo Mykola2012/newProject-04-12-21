@@ -1,0 +1,8 @@
+# Ignore vscode configs
+.vscode/
+
+# Ignore files.log
+*.log
+
+#.*
+#!.gitignore
